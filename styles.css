@@ -1,0 +1,76 @@
+html,
+body {
+    padding: 10px;
+    background-color: #07060f;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 1em;
+
+
+}
+
+#block {
+    background-color: #28272f;
+    padding: 20px;
+    width: 600px;
+    border-radius: 25px;
+    border: 2px solid #3d3c43;
+}
+
+@media screen and (max-width: 700px) {
+    #block {
+        width: 400px;
+    }
+}
+
+.wrong {
+    color: red;
+}
+
+
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: #3d3c43;
+}
+
+.login-btn {
+    background-color: white;
+    font-weight: 900;
+}
+
+.login-btn:hover {
+    background-color: #3d3c43;
+    color: white;
+}
+
+.book-btn {
+    border: 0;
+    background-color: transparent;
+    font-size: large;
+    font-weight: 700;
+}
+
+.book-btn:hover {
+    background-color: #3d3c43;
+    color: white;
+}
+
+table {
+    width: 100%;
+    background-color: #28272f;
+    font-size: large;
+}
+
+th,
+td {
+    padding: 10px;
+}
+
+tbody tr {
+    background-color: #ffffff;
+    color: #07060f;
+}

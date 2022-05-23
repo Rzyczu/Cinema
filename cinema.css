@@ -1,0 +1,55 @@
+html,
+body {
+    padding: 10px;
+    background-color: #07060f;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 1em;
+    text-align: center;
+}
+
+#sala {
+    text-align: center;
+    padding-top: 10px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+#ekran {
+    height: 5%;
+    width: 300px;
+    margin: 0 auto;
+    background-color: black;
+    color: white
+}
+
+.booked {
+    background-color: #580303;
+    color: rgb(255, 255, 255);
+}
+
+table {
+    margin: 0 auto;
+}
+
+td {
+    height: 30px;
+    width: 25px;
+    border: 1px solid slategray;
+}
+
+th,
+td {
+    padding: 0;
+}
+
+
+.seat {
+    background-color: #35ac49;
+}
+
+.active {
+    background-color: #81fc8d;
+    color: black;
+}
