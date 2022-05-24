@@ -7,7 +7,7 @@ if ((isset($_SESSION['login'])) && ($_SESSION['login'] == true)) {
         exit();
     }
 } else{
-    header('Location: login.php');
+    header('Location: index.php');
     exit();
 }
 
