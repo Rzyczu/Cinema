@@ -9,7 +9,6 @@ Minimal **full‑stack** web app in **PHP** with **MySQL** demonstrating classic
 - **Backend:** PHP (procedural), `mysqli` for database access, `session_start()` for auth/session
 - **Database:** MySQL/MariaDB (schema and sample data included)
 - **Frontend:** HTML + CSS (`styles.css`, `cinema.css`) + vanilla JavaScript (`cinema.js`)
-- **Assets:** sample screenshots (`films.png`, `booked.png`, `users.png`)
 
 ---
 
