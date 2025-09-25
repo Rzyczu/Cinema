@@ -1,9 +1,6 @@
 # Cinema — Simple Booking App (PHP + MySQL)
 
-**Recruiter‑friendly summary:** Minimal **full‑stack** web app in **PHP** with **MySQL** demonstrating classic **CRUD** and session‑based authentication. Users can browse films, create seat bookings, and view their reservations. The code uses raw SQL via `mysqli`, server‑rendered PHP views, and a lightweight JS/CSS layer.  
-**Keywords:** PHP, MySQL, mysqli, sessions, CRUD, authentication, booking system, HTML/CSS/JS.
-
-**Live Demo:** <!-- TODO: add production URL here, e.g., https://example.com/cinema -->
+Minimal **full‑stack** web app in **PHP** with **MySQL** demonstrating classic **CRUD** and session‑based authentication. Users can browse films, create seat bookings, and view their reservations. The code uses raw SQL via `mysqli`, server‑rendered PHP views, and a lightweight JS/CSS layer.  
 
 ---
 
